@@ -1,0 +1,8 @@
+{
+    "servers": {
+        "Figma Dev Mode MCP": {
+            "type": "sse",
+            "url": "http://localhost:3333/sse"
+        }
+    }
+}

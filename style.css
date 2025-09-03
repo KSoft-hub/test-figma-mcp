@@ -1,0 +1,37 @@
+body {
+    background: #fff;
+    margin: 0;
+    padding: 0;
+    font-family: Inter, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+    background: #D68686;
+    border-radius: 16px;
+    border: 1px solid #000;
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s, box-shadow 0.2s, transform 0.1s;
+    box-sizing: border-box;
+}
+
+
+
+.container:hover {
+    background: #c06a6a;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    transform: translateY(2px) scale(0.98);
+}
