@@ -1,7 +1,10 @@
-# FigmaデザインをMCP経由で取得し、html/cssに落としてくれる方法
+# FigmaデザインをMCP経由で取得し、html/cssを作成してくれるサンプル
 
 このリポジトリは、指定されたFigmaデザインをHTMLとCSSのみで再現したサンプルです。  
-FigmaのMCP (Figma-Context-MCP) を使い、デザインを読み取りHTML/CSSを作成しています。
+FigmaのMCP (Figma-Context-MCP) を使い、デザインを読み取りHTML/CSSを作成しています。  
+
+イメージ図
+![MCPフロー図](mcp_flow.png)
 
 ---
 
