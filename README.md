@@ -71,7 +71,7 @@ FigmaのMCP (Figma-Context-MCP) を使い、デザインを読み取りHTML/CSS�
 
 ## 参考URL
 
-<a href="https://qiita.com/syukan3/items/497a8a1aa93b4e2bafe8" target="_blank" rel="noopener">Figma-Context-MCP（Framelink Figma MCPサーバー）徹底解説と使い方</a>
+<a href="https://qiita.com/syukan3/items/497a8a1aa93b4e2bafe8" target="_blank" rel="noopener">Figma-Context-MCP（Framelink Figma MCPサーバー）徹底解説と使い方</a>  
 ※上記はCursorですが、VSCode + GitHub Copilotでも利用可能です
 
 
